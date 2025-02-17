@@ -1,4 +1,9 @@
-# Hi there 👋
+# Hi there! 👋
+
+My name is Marchell. Graduated with a Bachelor's Degree in Electrical Engineering, I possess not only experience in electronics, but also in the programming field, mainly Software Development. Here are some of the projects I have created along the way 👇:
+
+## PregnaGrowth
+
 
 ### GitHub Statistics
 <p align="left">
